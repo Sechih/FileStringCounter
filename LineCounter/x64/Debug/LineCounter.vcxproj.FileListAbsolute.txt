@@ -1,0 +1,2 @@
+C:\Users\sechix\Desktop\tst\LineCounter\x64\Debug\LineCounter.exe
+C:\Users\Vladislav\Desktop\tst\LineCounter\x64\Debug\LineCounter.exe

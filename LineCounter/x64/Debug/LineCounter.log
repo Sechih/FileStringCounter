@@ -1,0 +1,3 @@
+﻿  LineCounter.cpp
+C:\Users\Vladislav\Desktop\tst\LineCounter\LineCounter.cpp(130,29): warning C4129: *: неизвестная escape-последовательность
+  LineCounter.vcxproj -> C:\Users\Vladislav\Desktop\tst\LineCounter\x64\Debug\LineCounter.exe
